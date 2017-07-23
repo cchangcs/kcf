@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkcf.a  
+/usr/bin/ranlib libkcf.a
